@@ -266,10 +266,10 @@
     "lastSerieAMatch": {
         "homeTeam": "Lazio",
         "homeLogo": "images/lazio.png",
-        "homeScore": "0",
+        "homeScore": "2",
         "awayTeam": "Pisa",
         "awayLogo": "images/pisa.png",
-        "awayScore": "0",
+        "awayScore": "1",
         "startTimeIrish": "2026-05-23T19:45",
         "competition": "Serie A",
         "comments": "Match 38"
@@ -286,17 +286,17 @@
         "comments": "Match 35"
     },
     "lastSerieAGoal" : {
-        "homeTeam": "Pisa",
-        "homeLogo": "images/pisa.png",
-        "homeScore": "1",
-        "awayTeam": "Lecce",
-        "awayLogo": "images/lecce.png",
-        "awayScore": "3",
-        "startTimeIrish": "2026-05-01T19:45",
+        "homeTeam": "Lazio",
+        "homeLogo": "images/lazio.png",
+        "homeScore": "2",
+        "awayTeam": "Pisa",
+        "awayLogo": "images/pisa.png",
+        "awayScore": "1",
+        "startTimeIrish": "2026-05-23T19:45",
         "competition": "Serie A",
-        "comments": "Match 33",
-        "lastScorerName": "Medhi Léris",
-        "lastGoalMinute": "56"
+        "comments": "Match 38",
+        "lastScorerName": "Stefano Moreo",
+        "lastGoalMinute": "23"
     },
     "lastSerieAVictory": {
         "homeTeam": "Pisa",
