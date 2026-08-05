@@ -5,7 +5,7 @@
       "homeLogo": "images/pisa.png",
       "awayTeam": "Padova",
       "awayLogo": "images/padova.png",
-      "startTimeIrish": "2026-08-22T17:00",
+      "startTimeIrish": "2026-08-23T18:00",
       "competition": "Serie B",
       "comments": "Match 1"
     },
@@ -14,7 +14,7 @@
       "homeLogo": "images/pisa.png",
       "awayTeam": "Catanzaro",
       "awayLogo": "images/catanzaro.png",
-      "startTimeIrish": "2026-08-29T17:00",
+      "startTimeIrish": "2026-08-30T20:00",
       "competition": "Serie B",
       "comments": "Match 2"
     },
@@ -23,7 +23,7 @@
       "homeLogo": "images/juve_stabia.png",
       "awayTeam": "Pisa",
       "awayLogo": "images/pisa.png",
-      "startTimeIrish": "2026-09-05T17:00",
+      "startTimeIrish": "2026-09-06T14:00",
       "competition": "Serie B",
       "comments": "Match 3"
     },
@@ -32,7 +32,7 @@
       "homeLogo": "images/pisa.png",
       "awayTeam": "Virtus Entella",
       "awayLogo": "images/virtus_entella.png",
-      "startTimeIrish": "2026-09-12T17:00",
+      "startTimeIrish": "2026-09-11T20:00",
       "competition": "Serie B",
       "comments": "Match 4"
     },
@@ -41,7 +41,7 @@
       "homeLogo": "images/mantova.png",
       "awayTeam": "Pisa",
       "awayLogo": "images/pisa.png",
-      "startTimeIrish": "2026-09-19T17:00",
+      "startTimeIrish": "2026-09-20T16:15",
       "competition": "Serie B",
       "comments": "Match 5"
     },
