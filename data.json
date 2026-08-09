@@ -3,6 +3,15 @@
     {
       "homeTeam": "Pisa",
       "homeLogo": "images/pisa.png",
+      "awayTeam": "Empoli",
+      "awayLogo": "images/empoli.png",
+      "startTimeIrish": "2026-08-17T17:00",
+      "competition": "Coppa Italia",
+      "comments": ""
+    },
+    {
+      "homeTeam": "Pisa",
+      "homeLogo": "images/pisa.png",
       "awayTeam": "Padova",
       "awayLogo": "images/padova.png",
       "startTimeIrish": "2026-08-23T18:00",
