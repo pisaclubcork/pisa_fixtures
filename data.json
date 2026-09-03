@@ -46,6 +46,15 @@
       "comments": "Match 4"
     },
     {
+      "homeTeam": "Fiorentina",
+      "homeLogo": "images/fiorentina.png",
+      "awayTeam": "Pisa",
+      "awayLogo": "images/pisa.png",
+      "startTimeIrish": "2026-09-15T20:00",
+      "competition": "Coppa Italia",
+      "comments": "2nd Round"
+    },
+    {
       "homeTeam": "Mantova",
       "homeLogo": "images/mantova.png",
       "awayTeam": "Pisa",
