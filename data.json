@@ -68,7 +68,7 @@
       "homeLogo": "images/vicenza.png",
       "awayTeam": "Pisa",
       "awayLogo": "images/pisa.png",
-      "startTimeIrish": "2026-10-10T17:00",
+      "startTimeIrish": "2026-10-10T16:15",
       "competition": "Serie B",
       "comments": "Match 6"
     },
@@ -77,7 +77,7 @@
       "homeLogo": "images/pisa.png",
       "awayTeam": "Cremonese",
       "awayLogo": "images/cremonese.png",
-      "startTimeIrish": "2026-10-17T17:00",
+      "startTimeIrish": "2026-10-17T18:30",
       "competition": "Serie B",
       "comments": "Match 7"
     },
@@ -86,7 +86,7 @@
       "homeLogo": "images/hellas_verona.png",
       "awayTeam": "Pisa",
       "awayLogo": "images/pisa.png",
-      "startTimeIrish": "2026-10-24T17:00",
+      "startTimeIrish": "2026-10-25T16:15",
       "competition": "Serie B",
       "comments": "Match 8"
     },
@@ -95,7 +95,7 @@
       "homeLogo": "images/pisa.png",
       "awayTeam": "Palermo",
       "awayLogo": "images/palermo.png",
-      "startTimeIrish": "2026-10-27T17:00",
+      "startTimeIrish": "2026-10-28T18:00",
       "competition": "Serie B",
       "comments": "Match 9"
     },
@@ -104,7 +104,7 @@
       "homeLogo": "images/avellino.png",
       "awayTeam": "Pisa",
       "awayLogo": "images/pisa.png",
-      "startTimeIrish": "2026-10-31T17:00",
+      "startTimeIrish": "2026-11-01T14:00",
       "competition": "Serie B",
       "comments": "Match 10"
     },
@@ -113,7 +113,7 @@
       "homeLogo": "images/pisa.png",
       "awayTeam": "Südtirol",
       "awayLogo": "images/sudtirol.png",
-      "startTimeIrish": "2026-11-07T17:00",
+      "startTimeIrish": "2026-11-07T14:00",
       "competition": "Serie B",
       "comments": "Match 11"
     },
